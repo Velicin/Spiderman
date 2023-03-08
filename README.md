@@ -3,10 +3,4 @@
 
 **How to install.**
 
-
-Install python.
-
-
-**Your done!**
-
-Yeah its simple.
+**Install Python and your finished.**
